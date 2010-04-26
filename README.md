@@ -8,8 +8,10 @@ I will keep the bundle as up-to-date as possible, while maintaining the patches 
 
 In the terminal:
 
-    $ cd ~/Library/Application Support/TextMate/
+    $ cd ~/Library/Application Support/TextMate/Bundles/
     $ git clone git://github.com/panpainter/Zen-HTML.git Zen-HTML.tmbundle
+
+If the `/Bundles` directory doesn't exist, then create it.
 
 You might need to refresh your bundles in Textmate to get it to show up properly, too: `Bundles > Bundle Editor > Reload Bundles`
 
